@@ -1,0 +1,27 @@
+# Arduino / PlatformIO build output
+build/
+*.hex
+*.elf
+*.bin
+*.eep
+*.o
+.pio/
+.vscode/
+
+# Large media (keep videos and raw photos out of the repo)
+*.mp4
+*.mov
+*.avi
+*.gif
+*.zip
+
+# Backups and editor files
+*~
+*.bak
+*.tmp
+~$*
+
+# OS files
+desktop.ini
+Thumbs.db
+.DS_Store
